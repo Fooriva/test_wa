@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"us02web.zoom.us\/j\/4746065178?pwd=TC9vc2dLZ24wNXJxR0xpL29PWGNqUT09"
+                 "value":"https:\/\/us02web.zoom.us\/j\/4746065178?pwd=TC9vc2dLZ24wNXJxR0xpL29PWGNqUT09"
                 }],
          "type":"tilelayer",
          "visible":true,
