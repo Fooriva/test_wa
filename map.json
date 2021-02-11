@@ -29,9 +29,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"sallereunion"
+                 "value":"us02web.zoom.us\/j\/4746065178?pwd=TC9vc2dLZ24wNXJxR0xpL29PWGNqUT09"
                 }],
          "type":"tilelayer",
          "visible":true,
