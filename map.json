@@ -90,7 +90,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=E1IOO5wdPJk"
+                 "value":"https:\/\/www.youtube.com\/embed\/E1IOO5wdPJk"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
